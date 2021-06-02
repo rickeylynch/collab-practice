@@ -1,0 +1,19 @@
+.navbar-fixed-top {
+    border: solid black 1px;
+    background-color: lightseagreen;
+    color: mintcream;
+    text-align: center;
+}
+
+.col-6 {
+    height: 75px;
+    border: solid black 1px;
+    background-color: mediumblue;
+    color: mintcream;
+}
+
+.footer {
+    border: solid black 1px;
+    background-color: midnightblue;
+    color: mintcream;
+}
