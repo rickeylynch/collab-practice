@@ -1,0 +1,32 @@
+.navbar-fixed-top {
+    border: solid black 1px;
+    background-color: rgb(135, 208, 250);
+    color: mintcream;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    text-decoration: underline;
+    padding-right: 10px;
+}
+
+.col-6 {
+    height: 75px;
+    border: solid black 1px;
+    color: mintcream;
+}
+
+.left-column {
+    background-color: cornflowerblue;
+}
+
+.right-column {
+    background-color: mediumblue;
+}
+
+.footer {
+    border: solid black 1px;
+    background-color: midnightblue;
+    color: mintcream;
+}
