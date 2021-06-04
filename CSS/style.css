@@ -11,6 +11,11 @@ li {
     padding-right: 10px;
 }
 
+.jumbotron {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .col-6 {
     height: 75px;
     border: solid black 1px;
